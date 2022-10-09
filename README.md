@@ -30,7 +30,7 @@ ___
 
 ___
 
-<h3>Tecnologías</h3>
+<h3  align="left">Tecnologías.</h3>
 
 <table align="center">
   <tbody>
