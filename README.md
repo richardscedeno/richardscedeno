@@ -26,7 +26,6 @@ ___
 - 💬 **JavaScript**
 - 💬 **ReactJS**
 
-- 📫 Enviame tus dudas a: **chards.rjcov@gmail.com**
 
 ___
 
